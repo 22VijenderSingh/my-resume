@@ -1,0 +1,32 @@
+<style>
+		
+		#basic{
+			float: left;
+		}
+
+		#links{
+			float: right;
+		}
+
+		#name{
+			
+			font-size: 35px;
+			text-align: center;
+		}
+
+		h4{
+			font-size: 30px;
+			text-decoration: underline;
+		}
+
+		#headings{
+			font-size: 25px;
+			font-weight: bold;
+		}
+
+		a:link, a:visited{
+			color: #00BFFF;
+			background-color: #FFFF00;
+		}
+
+	</style>
